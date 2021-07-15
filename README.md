@@ -1,1 +1,1 @@
-# First-project
+# Webcam Paint Open-CV project
